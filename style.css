@@ -1,1 +1,12 @@
+body {
+  background-color:#fff0f5;
+  font-family: Calibri;
+  margin: 10% 10%;
+  text-align:center;
+  border: 5px solid
+}
 
+
+.ed {
+  border-top: 2px solid;  
+}
